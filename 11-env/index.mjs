@@ -1,5 +1,6 @@
 import { config } from 'dotenv';
 config();
+
 // import * as dotenv from 'dotenv';
 // console.log(dotenv);
 // dotenv.config();
